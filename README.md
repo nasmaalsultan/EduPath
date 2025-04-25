@@ -3,7 +3,7 @@ Apply smarter, not harder. Helping students find unis, scholarships, ECAs, get t
 
 # EduPath - An app that personalises university applications and helps navigate a smooth and hassle free application journey
 
-EduPath is a mobile app that streamlines and personalises the university application process. It helps students find the right unis, scholarships, ECAs, and more — all through AI-powered features and personalised suggestions.
+EduPath is a mobile app that streamlines and personalises the university application process. It helps students find the right unis, scholarships, ECAs, and more, all through AI-powered features and personalised suggestions.
 
 ## Key Features
 
@@ -36,7 +36,7 @@ Tailored lists for:
 
 ## Tech Stack
 - SwiftUI for frontend
-- ...
+- Python for AcaBot
 
 ---
 
