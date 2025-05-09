@@ -3,7 +3,7 @@ from pydantic import BaseModel
 from groq import Groq
 from fastapi.middleware.cors import CORSMiddleware
 
-client = Groq(api_key="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")
+client = Groq(api_key="")
 
 app = FastAPI()
 
